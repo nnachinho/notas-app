@@ -1,3 +1,0 @@
-Primer linea formato-a | Primer linea (modificacion -b)
-Segunda linea
-Seccion de prioridades
